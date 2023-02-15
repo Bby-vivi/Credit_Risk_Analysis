@@ -29,4 +29,4 @@
 ![easy ensemble adaboost](https://user-images.githubusercontent.com/114452770/219115519-446d910d-0c6e-439c-b714-5c7e454dbea0.PNG)
 
 ## Summary
-> 
+> Using the selective models in comparison to reflect the risk of high/low loans and balanced accuracy. 
